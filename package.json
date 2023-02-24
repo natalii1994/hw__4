@@ -1,5 +1,5 @@
 {
-    "name": "card_hw_3",
+    "name": "hw__4",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "(https://github.com/natalii1994/card_hw_3.git)"
+        "url": "(https://github.com/natalii1994/hw__4.git)"
     },
     "author": "",
     "license": "ISC",
