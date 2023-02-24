@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,OACI,UACJ,CAEA,KACI,qBACJ","sources":["webpack://hw__4/./src/css/style.css"],"sourcesContent":[".class {\n    color: #000;\n}\n\n.fox {\n    background-color: aqua;\n}\n"],"names":[],"sourceRoot":""}
