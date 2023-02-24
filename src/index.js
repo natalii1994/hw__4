@@ -1,6 +1,6 @@
 import Img from './images/ace of clubs.png'
 import { add } from './js/add.js'
-import './css/styles.css'
+import './css/style.css'
 function component() {
     const element = document.createElement('div')
     element.classList.add('card')
